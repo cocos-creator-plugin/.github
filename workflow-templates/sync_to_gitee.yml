@@ -16,5 +16,5 @@ jobs:
         name: Sync repo to gitee
         with:
           ssh-key: ${{ secrets.GITEE_TOKEN }}
-          repo-url: git@gitee.com:cocos-creator-plugin/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.git
+          repo-url: git@gitee.com:cocos-creator-plugin/仓库名.git #这里填gitee仓库的名字
           force: true
