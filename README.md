@@ -7,7 +7,7 @@
 在自己仓库的action页创建action时，可以使用此模板来自动同步到gitee。
 
 ### 步骤
-
+ 
 1. 在gitee上创建仓库
 2. 在github的action页使用模板创建workflow，并配置指定的仓库名
 
